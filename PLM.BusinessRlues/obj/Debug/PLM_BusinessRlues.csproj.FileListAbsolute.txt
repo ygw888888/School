@@ -168,3 +168,15 @@ G:\项目\SchoolPLM(202002170910new)\PLM.BusinessRlues\obj\Debug\PLM_BusinessRlu
 G:\项目\SchoolPLM(202002170910new)\PLM.BusinessRlues\obj\Debug\PLM_BusinessRlues.csproj.CopyComplete
 G:\项目\SchoolPLM(202002170910new)\PLM.BusinessRlues\obj\Debug\PLM.BusinessRlues.dll
 G:\项目\SchoolPLM(202002170910new)\PLM.BusinessRlues\obj\Debug\PLM.BusinessRlues.pdb
+F:\School\PLM.BusinessRlues\bin\Debug\PLM.BusinessRlues.dll
+F:\School\PLM.BusinessRlues\bin\Debug\PLM.BusinessRlues.pdb
+F:\School\PLM.BusinessRlues\bin\Debug\PLM_Model.dll
+F:\School\PLM.BusinessRlues\bin\Debug\PLM_SQLDAL.dll
+F:\School\PLM.BusinessRlues\bin\Debug\PLM_Common.dll
+F:\School\PLM.BusinessRlues\bin\Debug\PLM_Model.pdb
+F:\School\PLM.BusinessRlues\bin\Debug\PLM_SQLDAL.pdb
+F:\School\PLM.BusinessRlues\bin\Debug\PLM_Common.pdb
+F:\School\PLM.BusinessRlues\obj\Debug\PLM_BusinessRlues.csprojAssemblyReference.cache
+F:\School\PLM.BusinessRlues\obj\Debug\PLM_BusinessRlues.csproj.CopyComplete
+F:\School\PLM.BusinessRlues\obj\Debug\PLM.BusinessRlues.dll
+F:\School\PLM.BusinessRlues\obj\Debug\PLM.BusinessRlues.pdb

@@ -57,3 +57,11 @@ G:\项目\SchoolPLM(202002170910new)\PLM_Common\obj\Debug\PLM_Common.csprojAssem
 G:\项目\SchoolPLM(202002170910new)\PLM_Common\obj\Debug\PLM_Common.csproj.CopyComplete
 G:\项目\SchoolPLM(202002170910new)\PLM_Common\obj\Debug\PLM_Common.dll
 G:\项目\SchoolPLM(202002170910new)\PLM_Common\obj\Debug\PLM_Common.pdb
+F:\School\PLM_Common\bin\Debug\PLM_Common.dll
+F:\School\PLM_Common\bin\Debug\PLM_Common.pdb
+F:\School\PLM_Common\bin\Debug\PLM_Model.dll
+F:\School\PLM_Common\bin\Debug\PLM_Model.pdb
+F:\School\PLM_Common\obj\Debug\PLM_Common.csprojAssemblyReference.cache
+F:\School\PLM_Common\obj\Debug\PLM_Common.csproj.CopyComplete
+F:\School\PLM_Common\obj\Debug\PLM_Common.dll
+F:\School\PLM_Common\obj\Debug\PLM_Common.pdb
